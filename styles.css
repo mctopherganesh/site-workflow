@@ -1,0 +1,129 @@
+/* color palatte:
+
+background-color: rgb(14,57,50);
+color: rgb(202,212,191);
+
+*/
+
+html {
+	height: 100%;
+}
+
+.title-text {
+	margin: auto;
+}
+
+
+.profile-picture {
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 50%;
+	width: 68%;
+	height: auto;
+	margin: 10px;
+}
+
+
+.title-text {
+  font-family: 'Khand', sans-serif;
+  font-size: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h1.blog-title-text {
+	margin-top: 75px;
+}
+
+.content {
+  text-align: center;
+  /*padding: 0px 20px 10px 20px;*/
+  background-color: rgb(14,57,50);
+  color: rgb(202,212,191);
+
+}
+
+a.header-link {
+  color: black;
+  text-decoration: none;
+
+}
+
+a.header-link:hover {
+  color: black;
+  text-decoration: none;
+}
+
+th a {
+  color: rgb(162,228,149);
+}
+
+.table .table-hover th:hover {
+  color: white;
+}
+
+.table {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.card-title {
+	font-family: 'Khand', sans-serif;
+}
+
+.row {
+	background-color: rgb(14,57,50);
+	color: rgb(202,212,191);
+
+}
+
+.nav-link {
+	/*background-color: rgb(162,228,149);*/
+	color: black;
+}
+
+.nav-link:hover {
+	color: white;
+}
+
+.nav-link:after {
+	color: black;
+}
+
+.card {
+	margin: 5px;
+}
+
+.card-body {
+	background-color: rgb(11,45,41);
+}
+
+div.card-footer {
+	background-color: rgb(162,228,149);
+	text-decoration: none;
+}
+
+.card-footer a {
+	color: black;
+}
+
+.card-footer a:hover {
+	color: white;
+}
+
+#name-title-header {
+	margin-top: 75px;
+}
+
+#footer {
+	background-color: black;
+}
+
+#footer .row {
+	background-color: black;
+}
+
+img.gmail-picture {
+	margin-top: 3px;
+}
