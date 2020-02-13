@@ -1,4 +1,4 @@
-ou ask? What a great question and I love your go gettum attitude!
+what the heck is this repo about you ask? What a great question and I love your go gettum attitude!
 
 I decided to make a repository to show how I approach all the changes to my website. Recently I've decided to approach any problem I had programmatically..programmacally...programmaticalerlyness...anyway. Approach it in a way that I use programming to help me overcome what challenges I face with it or use programming in a way to help me better understand the issue.
 
